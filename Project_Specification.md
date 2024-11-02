@@ -2,7 +2,7 @@
 
 **Degree Program**: Bachelor of Science (BSc)  
 **Project Language**: Python  
-**Other Languages Proficient For Peer Review**: Python
+**Other Languages Proficient For Peer Review**: Python 
 **Project Documentation Language**: English
 
 ---
